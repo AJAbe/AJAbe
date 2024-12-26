@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 -->
 
 Data professional with close to 20 years of experience working on Data Engineering, Analytics, Product Development and Leadership roles. Graduated from Georgia Tech in May 2024, with a Masters in Analytics.
-
+Have worked on a variety of tools like DBT, Snowflake, Python, R, PySpark, DataBricks, AWS Services. 
 - 🔭 I’m currently working at Bread Financial in the capacity of a Senior Analytics Manager, working with a Team of Analysts and Scientists on several use cases for our internal customers. Looking to pivot into a more Product Managemet role within the AI / Data Framework.
 - 🌱 I’m currently learning LLM's and new trends in Data Engineering
 - 👯 I’m looking to collaborate with like minded individuals on new and interesting Data Engineering, ML, Analytical Projects using cutting edge technologies and the latest
-- 💬 Ask me about [LinkedIn](https://www.linkedin.com/in/abrahamja/)
-- 📫 How to reach me: ajacob307@gmail.com
+- 💬 Ask me about: Machine Learning, Data Science, Data Analytics, Data Engineering
+- 📫 How to reach me: ajacob307@gmail.com, [LinkedIn](https://www.linkedin.com/in/abrahamja/)
