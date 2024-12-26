@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 
-Data professional with close to 20 years of experience working on Data Engineering, Analytics, Product Development and Leadership roles.
+Data professional with close to 20 years of experience working on Data Engineering, Analytics, Product Development and Leadership roles. Graduated from Georgia Tech in May 2024, with a Masters in Analytics.
 
 - 🔭 I’m currently working at Bread Financial in the capacity of a Senior Analytics Manager, working with a Team of Analysts and Scientists on several use cases for our internal customers. Looking to pivot into a more Product Managemet role within the AI / Data Framework.
 - 🌱 I’m currently learning LLM's and new trends in Data Engineering
